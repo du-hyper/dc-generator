@@ -1,0 +1,10 @@
+
+
+db-url: jdbc:mysql://localhost:3306/golang?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=false
+db-driver-name: com.mysql.jdbc.Driver
+db-username: root
+db-password: duchao1s
+
+model-name: test
+package-name: com.du
+table-name: tb_order
